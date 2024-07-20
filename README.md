@@ -1,4 +1,2 @@
 ### ĐỒNG HỒ LED RGB
-![LEDRGB](images/IMG20240701214610.jpg)
-
-git
+![LGB](image/anh1.jpg)
